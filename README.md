@@ -8,3 +8,4 @@
 ### So Far We've covered
 - July 19 - Git Flow practice
 - July 26 - High Order Functions Review 
+- Aug 2 - Color Box (React State)
