@@ -11,3 +11,4 @@
 - July 26 - High Order Functions Review 
 - Aug 2 - Color Box (React State)
 - Aug 9 - JS Functions
+- Aug 23 - JS Funtions reveiw/Pseudo Code practice
