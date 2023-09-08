@@ -12,3 +12,4 @@
 - Aug 2 - Color Box (React State)
 - Aug 9 - JS Functions
 - Aug 23 - JS Funtions reveiw/Pseudo Code practice
+- Sept 9 - Functions / Preparedness Assessment 
